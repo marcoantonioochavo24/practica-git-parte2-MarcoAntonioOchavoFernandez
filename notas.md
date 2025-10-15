@@ -6,3 +6,5 @@
 - Diseño de Interfaces
 - Inglés
 - Itinerario para la empleabilidad
+- Proyecto DAW
+- Optativa DAW
