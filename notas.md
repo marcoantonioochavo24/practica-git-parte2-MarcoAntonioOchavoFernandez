@@ -8,6 +8,8 @@
 - Itinerario para la empleabilidad
 - Proyecto DAW
 - Optativa DAW
+Nueva asignatura: Historia
+
 
 ## Tareas pendientes
 
