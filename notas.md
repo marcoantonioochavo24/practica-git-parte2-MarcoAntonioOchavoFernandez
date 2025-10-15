@@ -9,6 +9,7 @@
 - Proyecto DAW
 - Optativa DAW
 Nueva asignatura: Historia
+Asignatura pendiente: Filosofía
 
 
 ## Tareas pendientes
